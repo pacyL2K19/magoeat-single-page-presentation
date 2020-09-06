@@ -8,8 +8,7 @@ export class Services extends Component {
           <div className="section-title">
             <h2>Nos Services</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              Mago groupe peut vous etre utile pour beaucoup de services qui incluent
             </p>
           </div>
           <div className="row">
