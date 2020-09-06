@@ -9,10 +9,9 @@ export class Contact extends Component {
             <div className="col-md-8">
               <div className="row">
                 <div className="section-title">
-                  <h2>Get In Touch</h2>
+                  <h2>Contactez-nous</h2>
                   <p>
-                    Please fill out the form below to send us an email and we
-                    will get back to you as soon as possible.
+                    Votre avis compte enormement, dites nous ce que vous pensez de l'initiative
                   </p>
                 </div>
                 <form name="sentMessage" id="contactForm" noValidate>
@@ -108,6 +107,11 @@ export class Contact extends Component {
                         <i className="fa fa-youtube"></i>
                       </a>
                     </li>
+                    <li>
+                      <a href={this.props.data ? this.props.data.instagram : "/"}>
+                        <i className="fa fa-instagram"></i>
+                      </a>
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -117,9 +121,9 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
+              &copy; 2020 MagoEat. Design by{" "}
+              <a href="https://pacifique-portfolio.herokuapp.com/" rel="nofollow" about="_blank">
+                Pacifique Linjanja
               </a>
             </p>
           </div>
