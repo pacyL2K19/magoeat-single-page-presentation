@@ -112,25 +112,26 @@
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    "Features": [
+        {
+            "icon": "fa fa-smile-o",
+            "title": "Resataurant dans la poche",
+            "text": "Commandez depuis votre restaurant préféré ou que vous soyez et obtenez votre commande en un temps record"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-cutlery",
+            "title": "Trouver votre repas preféré",
+            "text": "Des préférence en matiere de repas et des restaurant ? Trouver instantanément votre repas préféré en un rien de temps"
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Un peu perdu dans le choix ?",
+            "text": "Grace a la communauté MagoEat, trouver les meileurs repas et restaurants de la place grace a leurs avis qui vous guident"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa  fa-star-half-o",
+            "title": "Cotation des repas",
+            "text": "Une fois servi, vous avez la possibilité de le coter selon que vous avez apprecié votre repas "
         }
     ]
 }
