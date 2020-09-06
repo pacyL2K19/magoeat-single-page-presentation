@@ -20,6 +20,27 @@ export class features extends Component {
                 ))
               : "Loading..."}
           </div>
+          <div style = {{alignSelf : 'center', alignContent : 'center'}}>
+            <h1>Télecharger l'Application</h1>
+            <div className = 'row' style = {{display : 'flex'}}>
+              
+              <div style = {{justifyContent : 'space-between'}}>
+                <div>
+
+                </div>
+                <div style = {{display : 'flex', flex : 1}}>
+
+                </div>
+                <div style = {{display : 'flex', flexDirection : 'row', flex : 1}}>
+                  <img src = '/img/images/android.png' alt = 'Android' style = {{ height : 100}}/>
+                  <img src="/img/images/ios.png" alt="iOS" style = {{ height : 100}}/>
+                </div>
+              </div>
+              {/* <div>
+                <img src = '/img/images/phones.jpg' alt = '' style = {{height : 380, width : 380}} className = 'col-xs-12 col-lg-6'/>
+              </div> */}
+            </div>
+          </div>
         </div>
       </div>
     );

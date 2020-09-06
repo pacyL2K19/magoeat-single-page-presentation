@@ -6,21 +6,21 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "MagoEat est une plateforme multiplateforme qui met en contact les utilisateurs avec lesurs restaurants préférés en offrant une application mobile intuitive et simple d'utilisation. Nous facilitons egalement nos utilisateurs en faisant une livraison domicile gratuite",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Service rapide",
+            "Livraison gratuite",
+            "Bonus de fidelité",
+            "Offres de qualité"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Payer a la reception",
+            "Mode de paiement de votre choix",
+            "Votre avis compte le plus"
         ]
     },
-    "Services": [{
+    "Services": [
+        {
             "icon": "fa fa-wordpress",
             "name": "Lorem ipsum dolor",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
@@ -84,24 +84,25 @@
             "name": "Johnathan Doe"
         }
     ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+    "Team": [
+        {
+            "img": "img/team/joel.jpeg",
+            "name": "Joel MATOKA",
+            "job": "CEO"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "img": "img/team/moses.jpg",
+            "name": "Moise RAYO",
+            "job": "Marketing Planer"
         }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "img": "img/team/pacifique.jpeg",
+            "name": "Pacifique LINJANJA",
+            "job": "CTO Fullstack Dev"
         },
         {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/team/ced.jpeg",
+            "name": "Cedric MANGOSA",
+            "job": "Graphic Designer"
         }
     ],
     "Contact": {

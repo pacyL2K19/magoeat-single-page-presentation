@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import logo from '../images/logo2.png'
+import logo from '../../src/images/logo2.png'
 
 export class Navigation extends Component {
   render() {
