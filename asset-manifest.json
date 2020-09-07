@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magoeat-single-page-presentation/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/magoeat-single-page-presentation/static/js/main.5275fe88.chunk.js",
+    "main.js.map": "/magoeat-single-page-presentation/static/js/main.5275fe88.chunk.js.map",
+    "runtime-main.js": "/magoeat-single-page-presentation/static/js/runtime-main.dfbb2d0f.js",
+    "runtime-main.js.map": "/magoeat-single-page-presentation/static/js/runtime-main.dfbb2d0f.js.map",
+    "static/js/2.48992afd.chunk.js": "/magoeat-single-page-presentation/static/js/2.48992afd.chunk.js",
+    "static/js/2.48992afd.chunk.js.map": "/magoeat-single-page-presentation/static/js/2.48992afd.chunk.js.map",
+    "index.html": "/magoeat-single-page-presentation/index.html",
+    "precache-manifest.067d68cb1127a407df3692a302d4a3aa.js": "/magoeat-single-page-presentation/precache-manifest.067d68cb1127a407df3692a302d4a3aa.js",
+    "service-worker.js": "/magoeat-single-page-presentation/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/magoeat-single-page-presentation/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.48992afd.chunk.js.LICENSE.txt": "/magoeat-single-page-presentation/static/js/2.48992afd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfbb2d0f.js",
+    "static/js/2.48992afd.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5275fe88.chunk.js"
+  ]
+}
