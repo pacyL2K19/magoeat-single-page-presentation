@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a095c960a3229d86dd048d1775ba0e96",
+    "revision": "8865a34fedb990dae2d6da5407810e2a",
     "url": "/magoeat-single-page-presentation/index.html"
   },
   {
-    "revision": "85a69f6ba56945480930",
+    "revision": "10b8fe5c801afd12a04c",
     "url": "/magoeat-single-page-presentation/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magoeat-single-page-presentation/static/js/2.05e48df3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85a69f6ba56945480930",
-    "url": "/magoeat-single-page-presentation/static/js/main.660f5340.chunk.js"
+    "revision": "10b8fe5c801afd12a04c",
+    "url": "/magoeat-single-page-presentation/static/js/main.7576ebd5.chunk.js"
   },
   {
     "revision": "a59bea5b83282e69f410",
