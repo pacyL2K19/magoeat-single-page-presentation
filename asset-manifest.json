@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/magoeat-single-page-presentation/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/magoeat-single-page-presentation/static/js/main.ccd62b25.chunk.js",
-    "main.js.map": "/magoeat-single-page-presentation/static/js/main.ccd62b25.chunk.js.map",
+    "main.js": "/magoeat-single-page-presentation/static/js/main.660f5340.chunk.js",
+    "main.js.map": "/magoeat-single-page-presentation/static/js/main.660f5340.chunk.js.map",
     "runtime-main.js": "/magoeat-single-page-presentation/static/js/runtime-main.dfbb2d0f.js",
     "runtime-main.js.map": "/magoeat-single-page-presentation/static/js/runtime-main.dfbb2d0f.js.map",
-    "static/js/2.9ae5142f.chunk.js": "/magoeat-single-page-presentation/static/js/2.9ae5142f.chunk.js",
-    "static/js/2.9ae5142f.chunk.js.map": "/magoeat-single-page-presentation/static/js/2.9ae5142f.chunk.js.map",
+    "static/js/2.05e48df3.chunk.js": "/magoeat-single-page-presentation/static/js/2.05e48df3.chunk.js",
+    "static/js/2.05e48df3.chunk.js.map": "/magoeat-single-page-presentation/static/js/2.05e48df3.chunk.js.map",
     "index.html": "/magoeat-single-page-presentation/index.html",
-    "precache-manifest.cbf89f06b256ccd6f4016e02dbd81ec9.js": "/magoeat-single-page-presentation/precache-manifest.cbf89f06b256ccd6f4016e02dbd81ec9.js",
+    "precache-manifest.e3eb8d623ddd39404d53c5e2e49e8112.js": "/magoeat-single-page-presentation/precache-manifest.e3eb8d623ddd39404d53c5e2e49e8112.js",
     "service-worker.js": "/magoeat-single-page-presentation/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/magoeat-single-page-presentation/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9ae5142f.chunk.js.LICENSE.txt": "/magoeat-single-page-presentation/static/js/2.9ae5142f.chunk.js.LICENSE.txt",
-    "static/media/android.png": "/magoeat-single-page-presentation/static/media/android.db9b21a1.png"
+    "static/js/2.05e48df3.chunk.js.LICENSE.txt": "/magoeat-single-page-presentation/static/js/2.05e48df3.chunk.js.LICENSE.txt",
+    "static/media/android.png": "/magoeat-single-page-presentation/static/media/android.db9b21a1.png",
+    "static/media/logo2.png": "/magoeat-single-page-presentation/static/media/logo2.323a3e6a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dfbb2d0f.js",
-    "static/js/2.9ae5142f.chunk.js",
+    "static/js/2.05e48df3.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ccd62b25.chunk.js"
+    "static/js/main.660f5340.chunk.js"
   ]
 }
