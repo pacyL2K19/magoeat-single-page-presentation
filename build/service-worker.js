@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/magoeat-single-page-presentation/precache-manifest.067d68cb1127a407df3692a302d4a3aa.js"
+  "/magoeat-single-page-presentation/precache-manifest.8fea2ff7d5f3ab8ae19e2e4c78dccf5e.js"
 );
 
 self.addEventListener('message', (event) => {

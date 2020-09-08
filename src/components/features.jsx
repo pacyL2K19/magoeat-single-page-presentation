@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import android from '../images/android.png';
+import ios from '../images/ios.png';
 
 export class features extends Component {
   render() {
@@ -32,8 +34,8 @@ export class features extends Component {
 
                 </div>
                 <div style = {{display : 'flex', flexDirection : 'row', flex : 1}}>
-                  <img src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngguru.com%2Ffree-transparent-background-png-clipart-gstir&psig=AOvVaw3vWLzSipxs2my1Sa1GkRkj&ust=1599662735998000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD93Zzm2esCFQAAAAAdAAAAABAJ' alt = 'Android' style = {{ height : 100}}/>
-                  <img src="/img/images/ios.png" alt="iOS" style = {{ height : 100}}/>
+                  <img src = {android} alt = 'Android' style = {{ height : 100}}/>
+                  <img src= {ios} alt="iOS" style = {{ height : 100}}/>
                 </div>
               </div>
               {/* <div>
