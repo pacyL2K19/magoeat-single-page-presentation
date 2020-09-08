@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import logo from '../../public/img/images/logo2.png'
+import logo from '../images/logo2.png'
 
 export class Navigation extends Component {
   render() {
@@ -20,7 +20,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              <img src = '/img/images/logo2.png' alt = 'logo' style ={{height : 50, width : 50, marginTop : -10}} />
+              <img src = {logo} alt = 'logo' style ={{height : 50, width : 50, marginTop : -10}} />
               {/* <h3>MagoEat</h3> */}
             </a>{" "}
           </div>
